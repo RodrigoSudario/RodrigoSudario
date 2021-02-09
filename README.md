@@ -1,13 +1,16 @@
-<h1 align="center">Hi 👋, I'm Rodrigo Monteiro Sudario</h1>
-<h3 align="center">A passionate frontend developer from Brasil</h3>
+<h1 align="center">Olá 👋, me chamo Rodrigo Monteiro Sudario</h1>
+<h3>
+  Amante da Tecnologia e desenvolvimento, cultuador de arte, jogos, diversidade cultural e tudo aquilo que amplie a minha visão de alteridade e humanidade.
+  Sou estudante de Desenvolvimento de Software na Trybe, e tenho experiência nas áreas de educação e cultura. Sou autodidata, antenado e me adapto ao rápido avanço tecnológico.
+</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rodrigosudario&label=Profile%20views&color=0e75b6&style=flat" alt="rodrigosudario" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rodrigosudario" alt="rodrigosudario" /></a> </p>
 
-- 🔭 I’m currently working on [Project Recipes](https://github.com/tryber/sd-07-project-recipes-app/tree/main-group-14)
+- 🔭 Estive trabalhando no [Project Recipes](https://github.com/tryber/sd-07-project-recipes-app/tree/main-group-14)
 
-- 📫 How to reach me **monteiro.sudario@gmail.com**
+- 📫 Como entrar em contato comigo: **monteiro.sudario@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
