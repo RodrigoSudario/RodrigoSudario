@@ -1,7 +1,7 @@
 <h1 align="center">Olá 👋, me chamo Rodrigo Monteiro Sudario</h1>
 <h3>
   Amante da Tecnologia e desenvolvimento, cultuador de arte, jogos, diversidade cultural e tudo aquilo que amplie a minha visão de alteridade e humanidade.
- Sou formado em Desenvolvimento Web Full-Stack pela na Trybe, e tenho experiência nas áreas de educação e cultura. Sou autodidata, antenado e me adapto ao rápido avanço tecnológico.
+ Sou formado em Desenvolvimento Web Full-Stack pela Trybe, e tenho experiência nas áreas de educação e cultura. Sou autodidata, antenado e me adapto ao rápido avanço tecnológico.
 </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rodrigosudario&label=Profile%20views&color=0e75b6&style=flat" alt="rodrigosudario" /> </p>
