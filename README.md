@@ -9,6 +9,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rodrigosudario" alt="rodrigosudario" /></a> </p>
 
 - 🔭 Estive trabalhando nos projetos:
+- [Portfólio](https://rodrigosudario.github.io/portfolio_web)
 - [Project Recipes](https://github.com/tryber/sd-07-project-recipes-app/tree/main-group-14)
 - [Delivery App](https://github.com/tryber/sd-08-project-delivery-app/tree/main-group-13)
 
